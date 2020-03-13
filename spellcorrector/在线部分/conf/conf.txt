@@ -1,0 +1,10 @@
+ip_address 172.18.146.17
+port 8111
+ThreadNumber 5
+TaskNum 10
+写缓存启动时间 2
+写缓存轮写周期 6
+
+cacheFile 缓存.txt
+dictionary 字典.txt
+cacheFile 文件.txt

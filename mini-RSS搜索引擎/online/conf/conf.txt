@@ -1,0 +1,11 @@
+yuliao			/home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/rss
+ripepagelib		/home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/data/pagelib.dat
+offsetlib	    /home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/data/offsetlib.dat
+stopword	    /home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/inc/cppjieba/dict/stop_words.utf8
+newpagelib      /home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/data/newpagelib.dat
+newoffsetlib    /home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/data/newoffsetlib.dat
+invertindexlib  /home/qianqi/cpp项目：搜索引擎/3.0在线部分整合/data/invertindex.dat
+ip_address 192.168.1.7
+port 8111
+ThreadNumber 5
+TaskNum 10

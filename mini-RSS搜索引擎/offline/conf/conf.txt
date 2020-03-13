@@ -1,0 +1,11 @@
+ip_address 192.168.1.105
+port 8111
+ThreadNumber 5
+TaskNum 10
+
+语料库文件目录 ../data/rss源语料
+网页库输出 ripepage.lib
+网页偏移库输出 offset.lib
+新网页库 ripepage2.lib
+新网页偏移库 offset2.lib
+倒排索引库 InvertIndex.lib
